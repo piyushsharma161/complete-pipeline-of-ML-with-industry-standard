@@ -1,0 +1,72 @@
+2020-03-14/18:50:19		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/18:48:31		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/18:52:01		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/18:55:36		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/18:55:36		Exception occured in get_best_params_for_balanced_random_forest method of the Model_Finder class. Exception message:  name 'f2' is not defined
+2020-03-14/19:03:02		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/19:27:29		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/20:01:05		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/22:33:52		Entered the get_best_model method of the Model_Finder class
+2020-03-14/22:33:52		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/22:39:07		Entered the get_best_model method of the Model_Finder class
+2020-03-14/22:39:07		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/22:45:10		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'log2', 'brf__max_depth': 15, 'brf__criterion': 'gini', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-14/22:45:10		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-14/23:08:47		Entered the get_best_model method of the Model_Finder class
+2020-03-14/23:08:47		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/23:09:18		Entered the get_best_model method of the Model_Finder class
+2020-03-14/23:09:18		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/23:13:29		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': None, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-14/23:13:29		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-14/22:52:38		Balanced Ada Boost params: {'eec__warm_start': False, 'eec__sampling_strategy': 'auto', 'eec__replacement': True, 'eec__n_estimators': 20}. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
+2020-03-14/23:20:41		Entered the get_best_model method of the Model_Finder class
+2020-03-14/23:20:41		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/23:23:34		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 160, 'brf__min_samples_split': 8, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': 15, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-14/23:23:34		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-14/23:18:15		Balanced Ada Boost params: {'eec__warm_start': True, 'eec__sampling_strategy': 'auto', 'eec__replacement': True, 'eec__n_estimators': 10}. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
+2020-03-14/23:29:24		Entered the get_best_model method of the Model_Finder class
+2020-03-14/23:29:24		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-14/23:32:28		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': None, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-14/23:32:28		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-15/11:17:59		Entered the get_best_model method of the Model_Finder class
+2020-03-15/11:17:59		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-15/11:19:11		Entered the get_best_model method of the Model_Finder class
+2020-03-15/11:19:11		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-15/11:22:03		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'log2', 'brf__max_depth': 15, 'brf__criterion': 'gini', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6950377392329008. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-15/11:22:03		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-14/23:38:47		Balanced Ada Boost params: {'eec__warm_start': True, 'eec__sampling_strategy': 'majority', 'eec__replacement': False, 'eec__n_estimators': 10}. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
+2020-03-15/11:36:32		Entered the get_best_model method of the Model_Finder class
+2020-03-15/11:36:32		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-15/11:36:45		Entered the get_best_model method of the Model_Finder class
+2020-03-15/11:36:45		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-15/11:39:39		Balanced Random Forest best params: {'brf__replacement': True, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': 15, 'brf__criterion': 'gini', 'brf__class_weight': None, 'brf__bootstrap': False}	0.6961090950715649. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-15/11:39:39		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-15/11:27:45		Balanced Ada Boost params: {'eec__warm_start': False, 'eec__sampling_strategy': 'majority', 'eec__replacement': True, 'eec__n_estimators': 25}	0.6769289247643218. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
+2020-03-19/00:01:50		Entered the get_best_model method of the Model_Finder class
+2020-03-19/00:01:50		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/00:04:42		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': None, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6979176734599312. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-19/00:04:42		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-19/00:34:13		Entered the get_best_model method of the Model_Finder class
+2020-03-19/00:34:13		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/00:34:50		Entered the get_best_model method of the Model_Finder class
+2020-03-19/00:34:50		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/00:37:31		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 160, 'brf__min_samples_split': 8, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': 15, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6970195251135137. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-19/00:37:31		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-19/00:10:21		Balanced Ada Boost params: {'eec__warm_start': True, 'eec__sampling_strategy': 'majority', 'eec__replacement': False, 'eec__n_estimators': 15}	0.6783145818786995. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
+2020-03-19/00:10:21		Exception occured in get_best_model method of the Model_Finder class. Exception message:  [Errno 22] Invalid argument: 'C:\\projects\\imblanced\\saved_model\x08est_model.sav'
+2020-03-19/00:10:21		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-03-19/00:51:53		Entered the get_best_model method of the Model_Finder class
+2020-03-19/00:51:53		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/00:54:35		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 160, 'brf__min_samples_split': 8, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': 15, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6984542568319873. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-19/00:54:35		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-19/01:03:56		Entered the get_best_model method of the Model_Finder class
+2020-03-19/01:03:56		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/01:04:49		Entered the get_best_model method of the Model_Finder class
+2020-03-19/01:04:49		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/01:07:43		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'sqrt', 'brf__max_depth': None, 'brf__criterion': 'entropy', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6992474157921456. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-19/01:07:43		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-19/10:16:45		Entered the get_best_model method of the Model_Finder class
+2020-03-19/10:16:45		Entered the get_best_params_for_balanced_random_forest method of the Model_Finder class
+2020-03-19/10:19:54		Balanced Random Forest best params: {'brf__replacement': False, 'brf__n_estimators': 100, 'brf__min_samples_split': 2, 'brf__min_samples_leaf': 2, 'brf__max_features': 'log2', 'brf__max_depth': 15, 'brf__criterion': 'gini', 'brf__class_weight': 'balanced', 'brf__bootstrap': True}	0.6964217079012435. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2020-03-19/10:19:54		Entered the get_best_params_for_balanced_adaBoost method of the Model_Finder class
+2020-03-19/01:00:59		Balanced Ada Boost params: {'eec__warm_start': True, 'eec__sampling_strategy': 'majority', 'eec__replacement': True, 'eec__n_estimators': 15}	0.6771894136211268. Exited the get_best_params_for_AdaBoost method of the Model_Finder class
