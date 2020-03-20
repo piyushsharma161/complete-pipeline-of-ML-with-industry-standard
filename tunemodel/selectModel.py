@@ -205,15 +205,15 @@ class Model_Finder:
                                    'Model Selection Failed. Exited the get_best_model method of the Model_Finder class')
              raise Exception()              
              
-a = Model_Finder()
-X_train, X_test, y_train, y_test = a.X_train, a.X_test, a.y_train, a.y_test
+#a = Model_Finder()
+#X_train, X_test, y_train, y_test = a.X_train, a.X_test, a.y_train, a.y_test
 
 #model_name, model = a.get_best_model(X_train, X_test, y_train, y_test)
 
-model_loaded = joblib.load(a.saved_best_model_path)
-y_pred = model_loaded.predict(X_test)
-se = pd.Series(y_pred, name='y')
-se1 = pd.Series(y_test, name='y')
-pd.value_counts(se).plot(kind='bar')
-pd.value_counts(se1).plot(kind='bar')
+#model_loaded = joblib.load(a.saved_best_model_path)
+#y_pred = model_loaded.predict(X_test)
+#se = pd.Series(y_pred, name='y')
+#se1 = pd.Series(y_test, name='y')
+#pd.value_counts(se).plot(kind='bar')
+#pd.value_counts(se1).plot(kind='bar')
            
